@@ -1,0 +1,26 @@
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\Market Otomasyonu.exe.config
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\Market Otomasyonu.exe
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\Market Otomasyonu.pdb
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market_Otomasyonu.AdminKategoriİşlemleri.resources
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market_Otomasyonu.Form1.resources
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market_Otomasyonu.Properties.Resources.resources
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market Otomasyonu.csproj.GenerateResource.cache
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market Otomasyonu.exe
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market Otomasyonu.pdb
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market Otomasyonu.exe.config
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market_Otomasyonu.AdminÜrünİşlemleri.resources
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\EntityFramework.dll
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\EntityFramework.xml
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\obj\Debug\Market O.E27E53F1.Up2Date
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\AForge.dll
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\AForge.Video.dll
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\zxing.dll
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\zxing.presentation.dll
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\AForge.xml
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\AForge.Video.xml
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\zxing.xml
+C:\Users\EVİDAR\Source\Repos\Market Otomasyonu\Market Otomasyonu\bin\Debug\zxing.presentation.xml
